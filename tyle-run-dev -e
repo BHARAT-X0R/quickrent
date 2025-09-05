@@ -1,0 +1,307 @@
+Sep 02 07:12:58 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:12:58 imapy npm[6555]: > default_template@0.1.0 dev
+Sep 02 07:12:58 imapy npm[6555]: > next dev
+Sep 02 07:12:58 imapy npm[6567]: sh: 1: next: not found
+Sep 02 07:12:58 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:12:58 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:00 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 1.
+Sep 02 07:13:00 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:00 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:01 imapy npm[6569]: > default_template@0.1.0 dev
+Sep 02 07:13:01 imapy npm[6569]: > next dev
+Sep 02 07:13:01 imapy npm[6580]: sh: 1: next: not found
+Sep 02 07:13:01 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:01 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:03 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 2.
+Sep 02 07:13:03 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:03 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:03 imapy npm[6594]: > default_template@0.1.0 dev
+Sep 02 07:13:03 imapy npm[6594]: > next dev
+Sep 02 07:13:03 imapy npm[6605]: sh: 1: next: not found
+Sep 02 07:13:03 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:03 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:06 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 3.
+Sep 02 07:13:06 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:06 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:06 imapy npm[6606]: > default_template@0.1.0 dev
+Sep 02 07:13:06 imapy npm[6606]: > next dev
+Sep 02 07:13:06 imapy npm[6617]: sh: 1: next: not found
+Sep 02 07:13:06 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:06 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:08 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 4.
+Sep 02 07:13:08 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:08 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:09 imapy npm[6619]: > default_template@0.1.0 dev
+Sep 02 07:13:09 imapy npm[6619]: > next dev
+Sep 02 07:13:09 imapy npm[6631]: sh: 1: next: not found
+Sep 02 07:13:09 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:09 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:11 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 5.
+Sep 02 07:13:11 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:11 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:12 imapy npm[6632]: > default_template@0.1.0 dev
+Sep 02 07:13:12 imapy npm[6632]: > next dev
+Sep 02 07:13:12 imapy npm[6643]: sh: 1: next: not found
+Sep 02 07:13:12 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:12 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:14 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 6.
+Sep 02 07:13:14 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:14 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:14 imapy npm[6644]: > default_template@0.1.0 dev
+Sep 02 07:13:14 imapy npm[6644]: > next dev
+Sep 02 07:13:14 imapy npm[6655]: sh: 1: next: not found
+Sep 02 07:13:14 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:14 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:17 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 7.
+Sep 02 07:13:17 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:17 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:17 imapy npm[6656]: > default_template@0.1.0 dev
+Sep 02 07:13:17 imapy npm[6656]: > next dev
+Sep 02 07:13:17 imapy npm[6667]: sh: 1: next: not found
+Sep 02 07:13:17 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:17 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:19 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 8.
+Sep 02 07:13:19 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:19 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:20 imapy npm[6668]: > default_template@0.1.0 dev
+Sep 02 07:13:20 imapy npm[6668]: > next dev
+Sep 02 07:13:20 imapy npm[6679]: sh: 1: next: not found
+Sep 02 07:13:20 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:20 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:22 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 9.
+Sep 02 07:13:22 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:22 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:23 imapy npm[6681]: > default_template@0.1.0 dev
+Sep 02 07:13:23 imapy npm[6681]: > next dev
+Sep 02 07:13:23 imapy npm[6692]: sh: 1: next: not found
+Sep 02 07:13:23 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:23 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:25 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 10.
+Sep 02 07:13:25 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:25 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:25 imapy npm[6693]: > default_template@0.1.0 dev
+Sep 02 07:13:25 imapy npm[6693]: > next dev
+Sep 02 07:13:25 imapy npm[6704]: sh: 1: next: not found
+Sep 02 07:13:25 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:25 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:28 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 11.
+Sep 02 07:13:28 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:28 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:28 imapy npm[6753]: > default_template@0.1.0 dev
+Sep 02 07:13:28 imapy npm[6753]: > next dev
+Sep 02 07:13:30 imapy npm[6780]:    ▲ Next.js 15.3.0
+Sep 02 07:13:30 imapy npm[6780]:    - Local:        http://localhost:3000
+Sep 02 07:13:30 imapy npm[6780]:    - Network:      http://172.16.0.2:3000
+Sep 02 07:13:30 imapy npm[6780]:  ✓ Starting...
+Sep 02 07:13:30 imapy npm[6780]: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Sep 02 07:13:30 imapy npm[6780]: This information is used to shape Next.js' roadmap and prioritize features.
+Sep 02 07:13:30 imapy npm[6780]: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Sep 02 07:13:30 imapy npm[6780]: https://nextjs.org/telemetry
+Sep 02 07:13:31 imapy npm[6780]:  ✓ Ready in 1771ms
+Sep 02 07:13:57 imapy npm[6780]:  ○ Compiling /middleware ...
+Sep 02 07:13:58 imapy npm[6780]:  ✓ Compiled /middleware in 1315ms (202 modules)
+Sep 02 07:13:58 imapy npm[6780]:  ○ Compiling / ...
+Sep 02 07:14:04 imapy npm[6780]:  ✓ Compiled / in 6s (722 modules)
+Sep 02 07:14:04 imapy npm[6780]:  GET / 200 in 6391ms
+Sep 05 02:36:58 ejgbc npm[6780]:  ✓ Compiled in 1146ms (323 modules)
+Sep 05 02:36:58 ejgbc npm[6780]:  GET / 200 in 768ms
+Sep 05 02:36:58 ejgbc npm[6780]:  GET / 200 in 38ms
+Sep 05 02:36:59 ejgbc npm[6780]:    Reload env: .env
+Sep 05 02:37:05 ejgbc npm[6780]:  ✓ Compiled in 5.6s (922 modules)
+Sep 05 02:37:05 ejgbc npm[6780]:  HEAD / 200 in 3914ms
+Sep 05 02:37:05 ejgbc npm[6780]:  HEAD / 200 in 278ms
+Sep 05 02:37:05 ejgbc npm[6780]:  GET / 200 in 3951ms
+Sep 05 02:37:07 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:37:10 ejgbc npm[6780]:  HEAD / 200 in 47ms
+Sep 05 02:37:11 ejgbc npm[6780]:  ○ Compiling /icon ...
+Sep 05 02:37:11 ejgbc npm[6780]:  ✓ Compiled /icon in 523ms (717 modules)
+Sep 05 02:37:12 ejgbc npm[6780]:  GET / 200 in 287ms
+Sep 05 02:37:12 ejgbc npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 1104ms
+Sep 05 02:37:13 ejgbc npm[6780]:  HEAD / 200 in 54ms
+Sep 05 02:37:16 ejgbc npm[6780]:  HEAD / 200 in 44ms
+Sep 05 02:37:18 ejgbc npm[6780]:  ⚠ Blocked cross-origin request from ejgbc.vm.freestyle.sh to /_next/* resource. To allow this, configure "allowedDevOrigins" in next.config
+Sep 05 02:37:18 ejgbc npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+Sep 05 02:37:19 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:37:22 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:37:25 ejgbc npm[6780]:  HEAD / 200 in 40ms
+Sep 05 02:37:28 ejgbc npm[6780]:  HEAD / 200 in 37ms
+Sep 05 02:37:31 ejgbc npm[6780]:  HEAD / 200 in 27ms
+Sep 05 02:37:34 ejgbc npm[6780]:  HEAD / 200 in 44ms
+Sep 05 02:37:37 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:37:42 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:37:43 ejgbc npm[6780]:  HEAD / 200 in 25ms
+Sep 05 02:37:46 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:37:49 ejgbc npm[6780]:  HEAD / 200 in 40ms
+Sep 05 02:38:01 ejgbc npm[6780]:  HEAD / 200 in 39ms
+Sep 05 02:38:01 ejgbc npm[6780]:  HEAD / 200 in 44ms
+Sep 05 02:38:01 ejgbc npm[6780]:  HEAD / 200 in 76ms
+Sep 05 02:38:01 ejgbc npm[6780]:  HEAD / 200 in 88ms
+Sep 05 02:38:04 ejgbc npm[6780]:  HEAD / 200 in 27ms
+Sep 05 02:38:24 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:39:24 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:40:24 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:41:24 ejgbc npm[6780]:  HEAD / 200 in 55ms
+Sep 05 02:41:49 ejgbc npm[6780]:  HEAD / 200 in 73ms
+Sep 05 02:41:49 ejgbc npm[6780]:  GET /?_refresh=1 200 in 51ms
+Sep 05 02:41:51 ejgbc npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 175ms
+Sep 05 02:41:51 ejgbc npm[6780]:  GET / 200 in 109ms
+Sep 05 02:41:51 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:41:54 ejgbc npm[6780]:  HEAD / 200 in 42ms
+Sep 05 02:41:57 ejgbc npm[6780]:  HEAD / 200 in 40ms
+Sep 05 02:42:00 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:42:06 ejgbc npm[6780]:  HEAD / 200 in 32ms
+Sep 05 02:42:06 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:42:09 ejgbc npm[6780]:  HEAD / 200 in 40ms
+Sep 05 02:42:12 ejgbc npm[6780]:  HEAD / 200 in 37ms
+Sep 05 02:42:15 ejgbc npm[6780]:  HEAD / 200 in 45ms
+Sep 05 02:42:18 ejgbc npm[6780]:  HEAD / 200 in 32ms
+Sep 05 02:42:21 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:42:24 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:42:27 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:42:30 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:42:33 ejgbc npm[6780]:  HEAD / 200 in 32ms
+Sep 05 02:42:36 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:42:39 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:42:42 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:42:45 ejgbc npm[6780]:  HEAD / 200 in 32ms
+Sep 05 02:42:48 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:42:51 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:42:54 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:42:57 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:43:03 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:43:03 ejgbc npm[6780]:  HEAD / 200 in 47ms
+Sep 05 02:43:06 ejgbc npm[6780]:  HEAD / 200 in 37ms
+Sep 05 02:43:09 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:43:15 ejgbc npm[6780]:  HEAD / 200 in 40ms
+Sep 05 02:43:15 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:43:18 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:43:21 ejgbc npm[6780]:  HEAD / 200 in 37ms
+Sep 05 02:43:24 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:43:27 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:43:30 ejgbc npm[6780]:  HEAD / 200 in 32ms
+Sep 05 02:43:33 ejgbc npm[6780]:  HEAD / 200 in 27ms
+Sep 05 02:43:36 ejgbc npm[6780]:  HEAD / 200 in 37ms
+Sep 05 02:43:39 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:43:42 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:43:45 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:43:48 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:43:51 ejgbc npm[6780]:  HEAD / 200 in 49ms
+Sep 05 02:43:54 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:43:57 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:44:00 ejgbc npm[6780]:  HEAD / 200 in 25ms
+Sep 05 02:44:03 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:44:06 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:44:19 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:44:19 ejgbc npm[6780]:  HEAD / 200 in 37ms
+Sep 05 02:44:19 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:44:19 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:44:27 ejgbc npm[6780]:  HEAD / 200 in 37ms
+Sep 05 02:44:27 ejgbc npm[6780]:  HEAD / 200 in 39ms
+Sep 05 02:44:28 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:44:31 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:44:34 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:44:37 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:44:40 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:44:43 ejgbc npm[6780]:  HEAD / 200 in 32ms
+Sep 05 02:44:46 ejgbc npm[6780]:  HEAD / 200 in 32ms
+Sep 05 02:44:49 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:44:52 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:44:55 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:44:58 ejgbc npm[6780]:  HEAD / 200 in 48ms
+Sep 05 02:45:03 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:45:04 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:45:07 ejgbc npm[6780]:  HEAD / 200 in 32ms
+Sep 05 02:45:10 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:45:13 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:45:24 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:46:26 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:46:44 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:46:45 ejgbc npm[6780]:  HEAD / 200 in 42ms
+Sep 05 02:46:48 ejgbc npm[6780]:  HEAD / 200 in 32ms
+Sep 05 02:46:57 ejgbc npm[6780]:  HEAD / 200 in 38ms
+Sep 05 02:46:57 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:46:57 ejgbc npm[6780]:  HEAD / 200 in 27ms
+Sep 05 02:47:00 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:47:03 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:47:06 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:47:09 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:47:12 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:47:15 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:47:18 ejgbc npm[6780]:  HEAD / 200 in 34ms
+Sep 05 02:47:26 ejgbc npm[6780]:  HEAD / 200 in 50ms
+Sep 05 02:47:26 ejgbc npm[6780]:  HEAD / 200 in 67ms
+Sep 05 02:47:27 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:47:30 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:47:33 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:47:36 ejgbc npm[6780]:  HEAD / 200 in 38ms
+Sep 05 02:47:39 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:47:42 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:47:45 ejgbc npm[6780]:  HEAD / 200 in 37ms
+Sep 05 02:47:48 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:47:51 ejgbc npm[6780]:  HEAD / 200 in 33ms
+Sep 05 02:47:54 ejgbc npm[6780]:  HEAD / 200 in 39ms
+Sep 05 02:47:57 ejgbc npm[6780]:  HEAD / 200 in 43ms
+Sep 05 02:48:00 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:48:02 ejgbc npm[6780]:  ✓ Compiled in 368ms (324 modules)
+Sep 05 02:48:02 ejgbc npm[6780]:  ✓ Compiled in 110ms (310 modules)
+Sep 05 02:48:03 ejgbc npm[6780]:  GET /?_refresh=3 200 in 60ms
+Sep 05 02:48:03 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:48:04 ejgbc npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 113ms
+Sep 05 02:48:06 ejgbc npm[6780]:  HEAD / 200 in 37ms
+Sep 05 02:48:09 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:48:12 ejgbc npm[6780]:  HEAD / 200 in 25ms
+Sep 05 02:48:15 ejgbc npm[6780]:  HEAD / 200 in 25ms
+Sep 05 02:48:18 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:48:21 ejgbc npm[6780]:  HEAD / 200 in 25ms
+Sep 05 02:48:25 ejgbc npm[6780]:  HEAD / 200 in 28ms
+Sep 05 02:48:26 ejgbc npm[6780]:  ✓ Compiled in 173ms (324 modules)
+Sep 05 02:48:27 ejgbc npm[6780]:  GET /?_refresh=4 200 in 34ms
+Sep 05 02:48:27 ejgbc npm[6780]:  GET /?_refresh=5 200 in 53ms
+Sep 05 02:48:28 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:48:30 ejgbc npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 86ms
+Sep 05 02:48:31 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:48:34 ejgbc npm[6780]:  HEAD / 200 in 25ms
+Sep 05 02:48:37 ejgbc npm[6780]:  HEAD / 200 in 30ms
+Sep 05 02:48:40 ejgbc npm[6780]:  HEAD / 200 in 25ms
+Sep 05 02:48:43 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:48:46 ejgbc npm[6780]:  HEAD / 200 in 29ms
+Sep 05 02:48:49 ejgbc npm[6780]:  HEAD / 200 in 24ms
+Sep 05 02:48:52 ejgbc npm[6780]:  HEAD / 200 in 25ms
+Sep 05 02:48:54 ejgbc npm[6780]:  ✓ Compiled in 147ms (324 modules)
+Sep 05 02:48:55 ejgbc npm[6780]:  HEAD / 200 in 27ms
+Sep 05 02:48:55 ejgbc npm[6780]:  GET /?_refresh=6 200 in 34ms
+Sep 05 02:48:55 ejgbc npm[6780]:  GET /?_refresh=7 200 in 40ms
+Sep 05 02:48:58 ejgbc npm[6780]:  HEAD / 200 in 24ms
+Sep 05 02:48:58 ejgbc npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 76ms
+Sep 05 02:49:01 ejgbc npm[6780]:  HEAD / 200 in 24ms
+Sep 05 02:49:04 ejgbc npm[6780]:  HEAD / 200 in 24ms
+Sep 05 02:49:07 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:49:10 ejgbc npm[6780]:  HEAD / 200 in 24ms
+Sep 05 02:49:13 ejgbc npm[6780]:  HEAD / 200 in 24ms
+Sep 05 02:49:16 ejgbc npm[6780]:  HEAD / 200 in 24ms
+Sep 05 02:49:19 ejgbc npm[6780]:  HEAD / 200 in 31ms
+Sep 05 02:49:22 ejgbc npm[6780]:  HEAD / 200 in 25ms
+Sep 05 02:49:47 ejgbc npm[6780]:  ✓ Compiled in 193ms (324 modules)
+Sep 05 02:49:47 ejgbc npm[6780]:  GET /?_refresh=8 200 in 36ms
+Sep 05 02:49:47 ejgbc npm[6780]:  GET /?_refresh=9 200 in 36ms
+Sep 05 02:49:49 ejgbc npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 79ms
+Sep 05 02:50:19 ejgbc npm[6780]:  ✓ Compiled in 175ms (324 modules)
+Sep 05 02:50:19 ejgbc npm[6780]:  GET /?_refresh=10 200 in 38ms
+Sep 05 02:50:20 ejgbc npm[6780]:  GET /?_refresh=11 200 in 38ms
+Sep 05 02:50:23 ejgbc npm[6780]:  HEAD / 200 in 26ms
+Sep 05 02:50:24 ejgbc npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 86ms
+Sep 05 02:50:55 ejgbc npm[6780]:  ✓ Compiled in 183ms (324 modules)
+Sep 05 02:51:04 ejgbc npm[6780]:  ⨯ ./app/components/CommunitySection.tsx:5:1
+Sep 05 02:51:04 ejgbc npm[6780]: Module not found: Can't resolve 'motion/react'
+Sep 05 02:51:04 ejgbc npm[6780]:   3 | import React from "react";
+Sep 05 02:51:04 ejgbc npm[6780]:   4 | import { Icon } from "@iconify/react";
+Sep 05 02:51:04 ejgbc npm[6780]: > 5 | import { motion } from "motion/react";
+Sep 05 02:51:04 ejgbc npm[6780]:     | ^
+Sep 05 02:51:04 ejgbc npm[6780]:   6 | import { useInView } from "motion/react";
+Sep 05 02:51:04 ejgbc npm[6780]:   7 |
+Sep 05 02:51:04 ejgbc npm[6780]:   8 | const CommunitySection = () => {
+Sep 05 02:51:04 ejgbc npm[6780]: https://nextjs.org/docs/messages/module-not-found
+Sep 05 02:51:04 ejgbc npm[6780]: Import trace for requested module:
+Sep 05 02:51:04 ejgbc npm[6780]: ./app/page.tsx
+Sep 05 02:51:38 ejgbc npm[6780]:  ✓ Compiled in 2.5s (729 modules)
+Sep 05 02:51:45 ejgbc npm[6780]:  ✓ Compiled in 333ms (729 modules)
